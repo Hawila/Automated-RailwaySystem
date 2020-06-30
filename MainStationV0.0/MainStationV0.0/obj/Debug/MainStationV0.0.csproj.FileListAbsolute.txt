@@ -1,0 +1,67 @@
+c:\users\hallow\documents\visual studio 2015\Projects\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.exe.config
+c:\users\hallow\documents\visual studio 2015\Projects\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.exe
+c:\users\hallow\documents\visual studio 2015\Projects\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.pdb
+c:\users\hallow\documents\visual studio 2015\Projects\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0._0.Form1.resources
+c:\users\hallow\documents\visual studio 2015\Projects\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0._0.Properties.Resources.resources
+c:\users\hallow\documents\visual studio 2015\Projects\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csproj.GenerateResource.Cache
+c:\users\hallow\documents\visual studio 2015\Projects\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.exe
+c:\users\hallow\documents\visual studio 2015\Projects\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.pdb
+c:\users\hallow\documents\visual studio 2015\Projects\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csprojResolveAssemblyReference.cache
+C:\Users\khalifa\Desktop\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.exe.config
+C:\Users\khalifa\Desktop\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.exe
+C:\Users\khalifa\Desktop\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.pdb
+C:\Users\khalifa\Desktop\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csprojAssemblyReference.cache
+C:\Users\khalifa\Desktop\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0._0.Form1.resources
+C:\Users\khalifa\Desktop\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0._0.Properties.Resources.resources
+C:\Users\khalifa\Desktop\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csproj.GenerateResource.cache
+C:\Users\khalifa\Desktop\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csproj.CoreCompileInputs.cache
+C:\Users\khalifa\Desktop\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.exe
+C:\Users\khalifa\Desktop\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.pdb
+E:\project\screens\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.exe.config
+E:\project\screens\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.exe
+E:\project\screens\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.pdb
+E:\project\screens\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csprojAssemblyReference.cache
+E:\project\screens\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0._0.Form1.resources
+E:\project\screens\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0._0.Properties.Resources.resources
+E:\project\screens\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csproj.GenerateResource.cache
+E:\project\screens\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csproj.CoreCompileInputs.cache
+E:\project\screens\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.exe
+E:\project\screens\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.pdb
+G:\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.exe.config
+G:\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.exe
+G:\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.pdb
+G:\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.exe
+G:\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.pdb
+G:\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csprojResolveAssemblyReference.cache
+G:\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0._0.Form1.resources
+G:\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0._0.Properties.Resources.resources
+G:\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csproj.GenerateResource.Cache
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.exe.config
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.exe
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.pdb
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0._0.Form1.resources
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0._0.Properties.Resources.resources
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csproj.GenerateResource.cache
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csproj.CoreCompileInputs.cache
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.exe
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.pdb
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.exe.licenses
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\bin\Debug\Telerik.WinControls.dll
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\bin\Debug\Telerik.WinControls.UI.dll
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\bin\Debug\TelerikCommon.dll
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\bin\Debug\Telerik.WinControls.xml
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\bin\Debug\Telerik.WinControls.UI.xml
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csproj.CopyComplete
+E:\project\screens\main\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csprojAssemblyReference.cache
+G:\main(20-6)\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.exe.config
+G:\main(20-6)\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.exe
+G:\main(20-6)\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.pdb
+G:\main(20-6)\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.exe
+G:\main(20-6)\MainStationV0.0\MainStationV0.0\bin\Debug\MainStationV0.0.pdb
+G:\main(20-6)\MainStationV0.0\MainStationV0.0\bin\Debug\Telerik.WinControls.xml
+G:\main(20-6)\MainStationV0.0\MainStationV0.0\bin\Debug\Telerik.WinControls.UI.xml
+G:\main(20-6)\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csprojResolveAssemblyReference.cache
+G:\main(20-6)\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0._0.Form1.resources
+G:\main(20-6)\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0._0.Properties.Resources.resources
+G:\main(20-6)\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.csproj.GenerateResource.Cache
+G:\main(20-6)\MainStationV0.0\MainStationV0.0\obj\Debug\MainStationV0.0.exe.licenses
